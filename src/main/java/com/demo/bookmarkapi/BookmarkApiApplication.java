@@ -8,6 +8,7 @@ public class BookmarkApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BookmarkApiApplication.class, args);
+		System.out.println("This is test application");
 	}
 
 }

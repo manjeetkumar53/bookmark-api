@@ -9,6 +9,7 @@ public class BookmarkApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BookmarkApiApplication.class, args);
 		System.out.println("This is test application for entire flow");
+		System.out.println("This is new change-1");
 	}
 
 }
